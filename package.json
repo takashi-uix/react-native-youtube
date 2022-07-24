@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/davidohayon669/react-native-youtube",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.5.0"
   },
   "peerDependencies": {
